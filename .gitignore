@@ -1,0 +1,12 @@
+# build artifacts and scratch output
+bin/
+out/
+*.dSYM/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.DS_Store
